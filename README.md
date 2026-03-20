@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Cześć! Jestem pasjonatem frontendu, który nieustannie rozwija swoje umiejętności i szuka nowych wyzwań w świecie web developmentu.
 
 Wierzę, że każda linia kodu ma znaczenie i że dobry developer nigdy nie przestaje się uczyć. Programowanie to dla mnie nie tylko praca, ale przede wszystkim pasja, która sprawia, że chętnie siadam do komputera.
